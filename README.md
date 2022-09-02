@@ -1,4 +1,4 @@
-# MIPS Implementation of ALU
+# Logical MIPS Implementation of ALU
  
 This project is the binary implemtation of an ALU using logical operations. 
 
